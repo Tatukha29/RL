@@ -219,7 +219,7 @@ Color: #9ac9ec;
 .Shi{
     width: 500px;
     height: 600px;
-  
+
     font-size: 16px;
      
     
@@ -273,4 +273,71 @@ Color: #9ac9ec;
 .a{
     margin-bottom: 60px;
     display: flex;
+}
+.column2{
+height: 100%;
+width: 100%;
+margin-bottom: 20px;
+background: #9ac9ec;
+    padding-top: 5px;
+    box-sizing: border-box;
+    text-align: center
+}
+.part{
+    height: 300px;
+    width: 900px;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding-top: 1px;
+    box-sizing: border-box
+    
+}
+.part img{
+    height: 260px;
+    width: 320px;
+margin-right: 10px;
+    margin-left: 5px;
+    
+}
+.part h2{
+    color: #9ac9ec;
+    text-align: center;
+    
+}
+.mems{
+    height: 350px;
+    width: 600px;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+margin-bottom: 5px;
+    
+}
+.mems img{
+     
+height: 260px;
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto
+    
+    
+}
+.history{
+    height: 100%;
+    width: 900px;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    padding-top: 1px;
+    box-sizing: border-box;
+    text-align: center;
+    
+    
+}
+.history h2{
+    color:#9ac9ec;
+    font-size: 20px;
 }
